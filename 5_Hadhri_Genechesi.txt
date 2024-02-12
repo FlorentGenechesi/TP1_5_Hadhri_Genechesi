@@ -1,0 +1,3 @@
+Ali Hadhri florent genechesi
+
+Explication (VII) : lorsque nous sommes sur la branche initialement créée, master, ce fichier (5_Hadhri_Genechesi) n'apparaît pas, et on ne peut pas le modifier. Il faut repasser sur la branche mon_fichier pour avoir accès à ce document.
